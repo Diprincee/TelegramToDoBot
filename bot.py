@@ -1,6 +1,6 @@
 import telebot
 import random
-token ="5254183536:AAEyqg3YinyqEhgjW1DfRl2ZeAzmN6H9hfs"
+token ="yourbotid"
 bot = telebot.TeleBot(token)
 HELP = """
 /help - вывести список доступных команд.
